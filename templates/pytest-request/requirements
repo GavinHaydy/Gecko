@@ -1,0 +1,4 @@
+redis==6.4.0
+PyYAML==6.0.3
+pandas==2.3.3
+jsonpath==0.82.2
