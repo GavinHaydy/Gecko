@@ -1,10 +1,3 @@
-"""
-    @Author: Gavin
-    @Email: bugpz2779@gmail.com
-    @Blog: 'https://gavin.us.kg'
-    @Github: 'https://github.com/GavinHaydy'
-"""
-
 import logging
 import os
 import sys
